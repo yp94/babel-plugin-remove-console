@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-remove-console-pro",
+  "version": "0.0.1",
+  "description": "'去除console/debugger的babel插件'",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yp94/babel-plugin-remove-console.git"
+  },
+  "author": "yp94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yp94/babel-plugin-remove-console/issues"
+  },
+  "homepage": "https://github.com/yp94/babel-plugin-remove-console#readme",
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
